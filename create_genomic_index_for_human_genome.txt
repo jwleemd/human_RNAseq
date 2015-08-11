@@ -1,0 +1,2 @@
+STAR --runMode genomeGenerate --genomeDir ./STAR_2.4.2_HSA_GRCh38/ --genomeFastaFiles GRCh38.primary_assembly.genome.fa --sjdbGTFfile gencode.v23.primary_assembly.annotation.gtf --runThreadN 8 --genomeSAsparseD 2 --genomeSAindexNbases 13 --limitGenomeGenerateRAM 14000000000 
+
